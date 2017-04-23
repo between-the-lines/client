@@ -5,17 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="styles.css" rel="stylesheet">
-    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDi5E7BkwkQySLxKdi0ScloPsKYwAhubbo&callback=initMap"
+    async defer></script>
+    <script src="markerCluster.js"></script>
   </head>
   <body>
-    <!-- IMPORTANT GUIDELINES
-    1. div #canvas wraps this html block. 
-    2. div #canvas-svg is used for svg rendering. It can be placed anywhere here.
-    3. Do not define an html page here, i.e. including html, head, body tags. -->
-
-    <div id="tooltip-container"></div>
-
-    <div id="canvas-svg"></div>
+    <div id="map"></div>
     <script src="index.js"></script>
   </body>
 </html>

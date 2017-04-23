@@ -1,76 +1,11 @@
-/* stylesheet for your custom graph */
-
-.states {
-  fill: none;
-  stroke: #fff;
-  stroke-linejoin: round;
+/* Always set the map height explicitly to define the size of the div
+  * element that contains the map. */
+#map {
+  height: 100%;
 }
-
-.states-choropleth {
-  fill: #ccc;
-}
-
-#tooltip-container {
-  position: absolute;
-  background-color: #fff;
-  color: #000;
-  padding: 10px;
-  border: 1px solid;
-  display: none;
-}
-
-#canvas svg {
-  border: 0px;
-}
-
-.tooltip_key {
-  font-weight: bold;
-}
-
-.tooltip_value {
-  margin-left: 20px;
-  float: right;
-}
-
-.x-axis {
-  fill: #000;
-}
-
-.chart {
-  background: #fff;
-  margin: 5px;
-}
- 
-.chart .state-bar {
-  stroke: white;
-  fill: steelblue;
-}
- 
-.chart .score {
-  fill: white;
-}
- 
-.chart text.name {
-  fill: #000;
-}
- 
-.chart line {
-  stroke: #c1c1c1;
-}
- 
-.chart .rule {
-  fill: #000;
-}
-
-.main-state-text {
-  fill: #FF4A4A;
-}
-
-.main-state-bar {
-  stroke: #FF4A4A;
-  stroke-width: 2px;
-}
-
-.chart {
-  font-size: 12px;
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
