@@ -11,9 +11,10 @@ function MoodGen() {
 
 // Google Map API
 function initMap() {
+
   map = new google.maps.Map(document.getElementById('map'), {
-    center: {lat: -34.397, lng: 150.644},
-    zoom: 3,
+    center: {lat:37.642391, lng: -120.996895},
+    zoom: 9,
     disableDefaultUI: true,
     minZoom: 2
   });
@@ -24,7 +25,7 @@ function initMap() {
       url: iconBase + '1.png',
       scaledSize : new google.maps.Size(30,30)
     },
-    disgusted: {
+    disgust: {
       url: iconBase + '2.png',
       scaledSize : new google.maps.Size(30,30)
     },
@@ -42,7 +43,7 @@ function initMap() {
     }
   };
 
-  fetch('/sample.json')
+  fetch('/users_3.json')
     .then(function(response) {
       return response.json();
     }).then(function(result) {
@@ -51,9 +52,11 @@ function initMap() {
 
       // Google Array of LatLng Object
       var features = locations.map(function(location) {
+        var contentString = location.type.mood + ": " + location.type.percentage;
         return {
           position: new google.maps.LatLng(location.lat, location.lng),
-          type: location.type
+          type: location.type,
+          info: new google.maps.InfoWindow({ content: contentString })
         };
       });
       // Marker Creator
@@ -65,9 +68,11 @@ function initMap() {
           percentage: feature.type.percentage,
           mood: feature.type.mood
         }); 
+        mark.addListener('mouseover', function() {
+          feature.info.open(map, mark);
+        });
         return mark;
       });
-
 
       var imagePath = 'img/'
       mcOptions = { styles: [{
@@ -97,6 +102,30 @@ function initMap() {
       }]};
 
       var markerCluster = new MarkerClusterer(map, markers, mcOptions);
+
+      // google.maps.event.addListener(markerCluster, 'clusterclick', function(cluster) {
+  
+      //       var content = '';
+      //       // Convert the coordinates to an MVCObject
+      //       var info = new google.maps.MVCObject;
+      //       info.set('position', cluster.center_);
+      //       //Get markers
+      //       var marks_in_cluster = cluster.getMarkers();
+
+      //       console.log(marks_in_cluster);
+
+      //       for (var z = 0; z < marks_in_cluster.length; z++) {
+      //           content = makeClusterInfo(marks_in_cluster,z); 
+      //       }
+
+      //       infowindow.close(); // closes previous open ifowindows
+      //       infowindow.setContent(content); 
+      //       infowindow.open(map, info);
+      //       google.maps.event.addListener(map, 'zoom_changed', function() {
+      //           infowindow.close()
+      //       });
+  
+      //   });
 
       markerCluster.setCalculator(function(markers, numStyles) {
         var index = 0,
@@ -131,7 +160,7 @@ function initMap() {
           case 'angry':
             index = 1;
             break;
-          case 'disgusted':
+          case 'disgust':
             index = 2;
             break;
           case 'fear':
@@ -165,4 +194,12 @@ function initMap() {
       this.setAnimation(google.maps.Animation.BOUNCE);
     }
   }
+  var centre = map.getCenter();
+
+  google.maps.event.addDomListener(window, 'resize', function() {
+      map.setCenter(centre);
+  });
+
+
 }
+

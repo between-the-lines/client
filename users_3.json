@@ -1,0 +1,4786 @@
+[
+  {
+    "lat": 37.898904,
+    "lng": -123.440083,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.434801
+    }
+  },
+  {
+    "lat": 36.110685,
+    "lng": -124.158635,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.394572
+    }
+  },
+  {
+    "lat": 38.241218,
+    "lng": -122.520497,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.316018
+    }
+  },
+  {
+    "lat": 39.577455,
+    "lng": -124.165896,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.633447
+    }
+  },
+  {
+    "lat": 36.679032,
+    "lng": -124.181777,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 36.768044,
+    "lng": -124.410262,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 36.49695,
+    "lng": -121.957356,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.39707
+    }
+  },
+  {
+    "lat": 35.940563,
+    "lng": -122.361223,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.419631
+    }
+  },
+  {
+    "lat": 36.250007,
+    "lng": -122.688726,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 36.579655,
+    "lng": -122.779603,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.309186
+    }
+  },
+  {
+    "lat": 35.997478,
+    "lng": -121.850042,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 38.671789,
+    "lng": -122.438796,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.405132
+    }
+  },
+  {
+    "lat": 38.301459,
+    "lng": -123.249714,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.389873
+    }
+  },
+  {
+    "lat": 39.723766,
+    "lng": -123.131846,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 36.16289,
+    "lng": -121.056139,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.428825
+    }
+  },
+  {
+    "lat": 38.055944,
+    "lng": -122.88177,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.445785
+    }
+  },
+  {
+    "lat": 36.588051,
+    "lng": -120.972778,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.362668
+    }
+  },
+  {
+    "lat": 38.749315,
+    "lng": -123.020088,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.359563
+    }
+  },
+  {
+    "lat": 37.476441,
+    "lng": -124.387154,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.374994
+    }
+  },
+  {
+    "lat": 39.463954,
+    "lng": -122.714803,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.344162
+    }
+  },
+  {
+    "lat": 37.040033,
+    "lng": -122.990336,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.403972
+    }
+  },
+  {
+    "lat": 38.860844,
+    "lng": -121.725991,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.316199
+    }
+  },
+  {
+    "lat": 39.332116,
+    "lng": -123.599095,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.310763
+    }
+  },
+  {
+    "lat": 37.495278,
+    "lng": -121.04955,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.423379
+    }
+  },
+  {
+    "lat": 38.59929,
+    "lng": -120.918411,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.483783
+    }
+  },
+  {
+    "lat": 37.534621,
+    "lng": -122.417192,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.359563
+    }
+  },
+  {
+    "lat": 38.387976,
+    "lng": -121.161034,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.367718
+    }
+  },
+  {
+    "lat": 38.759763,
+    "lng": -120.940762,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.236149
+    }
+  },
+  {
+    "lat": 38.077115,
+    "lng": -123.316551,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.367718
+    }
+  },
+  {
+    "lat": 39.072547,
+    "lng": -123.800736,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.527615
+    }
+  },
+  {
+    "lat": 39.234795,
+    "lng": -122.349402,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.288373
+    }
+  },
+  {
+    "lat": 39.079298,
+    "lng": -121.41485,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.660806
+    }
+  },
+  {
+    "lat": 38.038853,
+    "lng": -124.087203,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 36.49817,
+    "lng": -121.317833,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.339805
+    }
+  },
+  {
+    "lat": 38.228694,
+    "lng": -124.194769,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.349563
+    }
+  },
+  {
+    "lat": 36.383938,
+    "lng": -124.308611,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.35619
+    }
+  },
+  {
+    "lat": 36.024664,
+    "lng": -120.441813,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.481009
+    }
+  },
+  {
+    "lat": 39.518759,
+    "lng": -123.086213,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.554273
+    }
+  },
+  {
+    "lat": 36.367943,
+    "lng": -122.040993,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.376083
+    }
+  },
+  {
+    "lat": 37.80723,
+    "lng": -120.936943,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.443772
+    }
+  },
+  {
+    "lat": 36.004513,
+    "lng": -123.735635,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.435049
+    }
+  },
+  {
+    "lat": 35.856732,
+    "lng": -124.333662,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.365115
+    }
+  },
+  {
+    "lat": 38.9053,
+    "lng": -123.704266,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.433993
+    }
+  },
+  {
+    "lat": 35.859817,
+    "lng": -123.632309,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.492646
+    }
+  },
+  {
+    "lat": 36.498068,
+    "lng": -121.742858,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.511372
+    }
+  },
+  {
+    "lat": 38.67727,
+    "lng": -124.171185,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.443668
+    }
+  },
+  {
+    "lat": 36.928023,
+    "lng": -122.075621,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.301095
+    }
+  },
+  {
+    "lat": 35.896286,
+    "lng": -123.715285,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.800226
+    }
+  },
+  {
+    "lat": 39.107387,
+    "lng": -123.873342,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.375039
+    }
+  },
+  {
+    "lat": 38.952179,
+    "lng": -122.258809,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.44507
+    }
+  },
+  {
+    "lat": 37.550003,
+    "lng": -123.833657,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.443035
+    }
+  },
+  {
+    "lat": 39.52919,
+    "lng": -122.637593,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.320529
+    }
+  },
+  {
+    "lat": 37.209598,
+    "lng": -120.591698,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.67859
+    }
+  },
+  {
+    "lat": 37.730629,
+    "lng": -120.921941,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.377688
+    }
+  },
+  {
+    "lat": 39.377464,
+    "lng": -122.957294,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.367718
+    }
+  },
+  {
+    "lat": 37.972773,
+    "lng": -120.692195,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.440497
+    }
+  },
+  {
+    "lat": 39.174093,
+    "lng": -120.679325,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.532178
+    }
+  },
+  {
+    "lat": 39.384608,
+    "lng": -124.256489,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.473714
+    }
+  },
+  {
+    "lat": 39.536412,
+    "lng": -120.739597,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.442507
+    }
+  },
+  {
+    "lat": 37.282162,
+    "lng": -122.938099,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.321974
+    }
+  },
+  {
+    "lat": 39.080161,
+    "lng": -123.737297,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.327334
+    }
+  },
+  {
+    "lat": 36.357648,
+    "lng": -123.067632,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.425379
+    }
+  },
+  {
+    "lat": 39.333541,
+    "lng": -124.216486,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.457671
+    }
+  },
+  {
+    "lat": 37.055178,
+    "lng": -121.734479,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.584412
+    }
+  },
+  {
+    "lat": 36.038109,
+    "lng": -120.678902,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.280013
+    }
+  },
+  {
+    "lat": 37.528793,
+    "lng": -122.739533,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.348063
+    }
+  },
+  {
+    "lat": 39.031911,
+    "lng": -124.033694,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.425379
+    }
+  },
+  {
+    "lat": 37.353067,
+    "lng": -122.103885,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.371993
+    }
+  },
+  {
+    "lat": 38.280672,
+    "lng": -121.544006,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.46193
+    }
+  },
+  {
+    "lat": 35.996862,
+    "lng": -122.570092,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.475794
+    }
+  },
+  {
+    "lat": 39.681325,
+    "lng": -122.728919,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.473002
+    }
+  },
+  {
+    "lat": 36.467767,
+    "lng": -121.008762,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.30637
+    }
+  },
+  {
+    "lat": 37.917931,
+    "lng": -121.14485,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.570765
+    }
+  },
+  {
+    "lat": 37.509562,
+    "lng": -120.432169,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.415925
+    }
+  },
+  {
+    "lat": 39.441429,
+    "lng": -121.979205,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.660806
+    }
+  },
+  {
+    "lat": 36.031135,
+    "lng": -123.615912,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.333238
+    }
+  },
+  {
+    "lat": 36.990748,
+    "lng": -123.446801,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.376278
+    }
+  },
+  {
+    "lat": 39.080853,
+    "lng": -120.714024,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 39.569288,
+    "lng": -121.425195,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.623637
+    }
+  },
+  {
+    "lat": 39.055188,
+    "lng": -122.757152,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.50427
+    }
+  },
+  {
+    "lat": 36.824935,
+    "lng": -123.13893,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 37.228018,
+    "lng": -123.003211,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.264687
+    }
+  },
+  {
+    "lat": 37.080829,
+    "lng": -121.727004,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.376278
+    }
+  },
+  {
+    "lat": 37.044918,
+    "lng": -124.246137,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.765558
+    }
+  },
+  {
+    "lat": 37.282006,
+    "lng": -123.344694,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.401585
+    }
+  },
+  {
+    "lat": 39.699173,
+    "lng": -121.052877,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.637822
+    }
+  },
+  {
+    "lat": 37.615213,
+    "lng": -122.867166,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.506952
+    }
+  },
+  {
+    "lat": 37.634015,
+    "lng": -121.494645,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.378888
+    }
+  },
+  {
+    "lat": 37.941666,
+    "lng": -120.943352,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.658656
+    }
+  },
+  {
+    "lat": 38.828534,
+    "lng": -124.410958,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379
+    }
+  },
+  {
+    "lat": 39.61473,
+    "lng": -121.540916,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.384333
+    }
+  },
+  {
+    "lat": 37.255997,
+    "lng": -122.651179,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.527852
+    }
+  },
+  {
+    "lat": 37.833939,
+    "lng": -124.101736,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.267933
+    }
+  },
+  {
+    "lat": 38.488652,
+    "lng": -122.578295,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.260043
+    }
+  },
+  {
+    "lat": 37.126791,
+    "lng": -121.974561,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.591998
+    }
+  },
+  {
+    "lat": 37.068216,
+    "lng": -121.365118,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.595363
+    }
+  },
+  {
+    "lat": 35.934548,
+    "lng": -122.268764,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.594432
+    }
+  },
+  {
+    "lat": 37.990343,
+    "lng": -123.89652,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.262602
+    }
+  },
+  {
+    "lat": 36.858886,
+    "lng": -122.337684,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.335956
+    }
+  },
+  {
+    "lat": 37.080416,
+    "lng": -121.160148,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.343833
+    }
+  },
+  {
+    "lat": 36.472609,
+    "lng": -121.147866,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.496126
+    }
+  },
+  {
+    "lat": 37.716426,
+    "lng": -121.122551,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.458664
+    }
+  },
+  {
+    "lat": 35.964083,
+    "lng": -121.893624,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.660806
+    }
+  },
+  {
+    "lat": 38.670736,
+    "lng": -122.929373,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.770568
+    }
+  },
+  {
+    "lat": 39.083531,
+    "lng": -123.506225,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.578475
+    }
+  },
+  {
+    "lat": 35.982556,
+    "lng": -122.45301,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.394768
+    }
+  },
+  {
+    "lat": 37.889769,
+    "lng": -123.042151,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.407795
+    }
+  },
+  {
+    "lat": 39.219817,
+    "lng": -122.344346,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.479067
+    }
+  },
+  {
+    "lat": 39.549545,
+    "lng": -121.806896,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.444348
+    }
+  },
+  {
+    "lat": 36.517623,
+    "lng": -121.857577,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 37.752612,
+    "lng": -121.590534,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.275719
+    }
+  },
+  {
+    "lat": 39.546333,
+    "lng": -123.066134,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.28497
+    }
+  },
+  {
+    "lat": 38.577597,
+    "lng": -121.767959,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.256809
+    }
+  },
+  {
+    "lat": 38.702045,
+    "lng": -121.507946,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.454886
+    }
+  },
+  {
+    "lat": 36.203797,
+    "lng": -122.778686,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.597724
+    }
+  },
+  {
+    "lat": 38.896142,
+    "lng": -123.181109,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 38.375153,
+    "lng": -122.296163,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.581017
+    }
+  },
+  {
+    "lat": 37.152226,
+    "lng": -123.981366,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.414053
+    }
+  },
+  {
+    "lat": 36.155444,
+    "lng": -121.985054,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.300205
+    }
+  },
+  {
+    "lat": 37.003958,
+    "lng": -120.447922,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.737639
+    }
+  },
+  {
+    "lat": 37.894034,
+    "lng": -122.844,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.286041
+    }
+  },
+  {
+    "lat": 38.072082,
+    "lng": -120.885374,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.439817
+    }
+  },
+  {
+    "lat": 38.282767,
+    "lng": -121.263774,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.376278
+    }
+  },
+  {
+    "lat": 37.795891,
+    "lng": -121.391876,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.456469
+    }
+  },
+  {
+    "lat": 37.814729,
+    "lng": -124.17483,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.303335
+    }
+  },
+  {
+    "lat": 36.467188,
+    "lng": -124.260686,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.371746
+    }
+  },
+  {
+    "lat": 39.630844,
+    "lng": -121.151075,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.520548
+    }
+  },
+  {
+    "lat": 35.825612,
+    "lng": -123.345312,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.660806
+    }
+  },
+  {
+    "lat": 39.403492,
+    "lng": -122.254325,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 36.567543,
+    "lng": -121.410034,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.488123
+    }
+  },
+  {
+    "lat": 35.92155,
+    "lng": -123.722702,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.38978
+    }
+  },
+  {
+    "lat": 36.768511,
+    "lng": -123.194059,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.239319
+    }
+  },
+  {
+    "lat": 38.275662,
+    "lng": -121.536998,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.693821
+    }
+  },
+  {
+    "lat": 39.308715,
+    "lng": -122.170555,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.461484
+    }
+  },
+  {
+    "lat": 39.738517,
+    "lng": -121.318015,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.740654
+    }
+  },
+  {
+    "lat": 38.061171,
+    "lng": -123.406851,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.304942
+    }
+  },
+  {
+    "lat": 36.317359,
+    "lng": -122.973494,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.702632
+    }
+  },
+  {
+    "lat": 37.191297,
+    "lng": -122.686588,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.48446
+    }
+  },
+  {
+    "lat": 38.404296,
+    "lng": -122.488803,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.30452
+    }
+  },
+  {
+    "lat": 36.155098,
+    "lng": -121.122524,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.311756
+    }
+  },
+  {
+    "lat": 35.875133,
+    "lng": -120.463268,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.325469
+    }
+  },
+  {
+    "lat": 35.883343,
+    "lng": -122.374563,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.338849
+    }
+  },
+  {
+    "lat": 37.392488,
+    "lng": -124.142415,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 38.23824,
+    "lng": -123.863798,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.379983
+    }
+  },
+  {
+    "lat": 38.926428,
+    "lng": -122.425758,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.39707
+    }
+  },
+  {
+    "lat": 36.313708,
+    "lng": -123.107773,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.395261
+    }
+  },
+  {
+    "lat": 37.628175,
+    "lng": -121.942277,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.306637
+    }
+  },
+  {
+    "lat": 39.315702,
+    "lng": -120.937793,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.449375
+    }
+  },
+  {
+    "lat": 39.449392,
+    "lng": -123.69849,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.592995
+    }
+  },
+  {
+    "lat": 37.553752,
+    "lng": -123.196466,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.282539
+    }
+  },
+  {
+    "lat": 39.73834,
+    "lng": -121.94784,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.461591
+    }
+  },
+  {
+    "lat": 39.436019,
+    "lng": -123.286013,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.318875
+    }
+  },
+  {
+    "lat": 36.737094,
+    "lng": -122.016257,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.435425
+    }
+  },
+  {
+    "lat": 37.769748,
+    "lng": -123.769569,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.566959
+    }
+  },
+  {
+    "lat": 38.935933,
+    "lng": -122.782143,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 37.205764,
+    "lng": -120.967782,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.408104
+    }
+  },
+  {
+    "lat": 36.217744,
+    "lng": -122.921712,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.638853
+    }
+  },
+  {
+    "lat": 38.94267,
+    "lng": -121.920254,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.649354
+    }
+  },
+  {
+    "lat": 36.818265,
+    "lng": -121.036287,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.555525
+    }
+  },
+  {
+    "lat": 37.39516,
+    "lng": -123.152166,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 37.549112,
+    "lng": -120.555063,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.427352
+    }
+  },
+  {
+    "lat": 36.88828,
+    "lng": -121.33605,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.494108
+    }
+  },
+  {
+    "lat": 36.359601,
+    "lng": -120.586586,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.632705
+    }
+  },
+  {
+    "lat": 38.185077,
+    "lng": -122.224234,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.516887
+    }
+  },
+  {
+    "lat": 37.17614,
+    "lng": -124.036818,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.574838
+    }
+  },
+  {
+    "lat": 36.623569,
+    "lng": -122.349991,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 39.54828,
+    "lng": -122.773419,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.342099
+    }
+  },
+  {
+    "lat": 37.178077,
+    "lng": -123.690061,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 36.922946,
+    "lng": -122.503133,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 35.893466,
+    "lng": -124.257196,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.594247
+    }
+  },
+  {
+    "lat": 37.932271,
+    "lng": -122.874774,
+    "type": {
+      "mood": "fear",
+      "percentage": 0.266226
+    }
+  },
+  {
+    "lat": 38.28662,
+    "lng": -123.708732,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 37.249899,
+    "lng": -121.874926,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.338972
+    }
+  },
+  {
+    "lat": 39.75426,
+    "lng": -121.349856,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.287658
+    }
+  },
+  {
+    "lat": 39.373156,
+    "lng": -121.590122,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.291573
+    }
+  },
+  {
+    "lat": 37.388184,
+    "lng": -124.420593,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 38.860306,
+    "lng": -122.114362,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.426537
+    }
+  },
+  {
+    "lat": 38.082836,
+    "lng": -122.651605,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.642893
+    }
+  },
+  {
+    "lat": 36.899002,
+    "lng": -123.021546,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.538654
+    }
+  },
+  {
+    "lat": 38.878739,
+    "lng": -120.74782,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.358449
+    }
+  },
+  {
+    "lat": 36.72059,
+    "lng": -120.775434,
+    "type": {
+      "mood": "fear",
+      "percentage": 0.352684
+    }
+  },
+  {
+    "lat": 35.777112,
+    "lng": -121.121117,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.437103
+    }
+  },
+  {
+    "lat": 36.488873,
+    "lng": -123.956614,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.568385
+    }
+  },
+  {
+    "lat": 38.027204,
+    "lng": -122.618639,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.491919
+    }
+  },
+  {
+    "lat": 39.538836,
+    "lng": -123.982652,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 39.587309,
+    "lng": -122.64294,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.449083
+    }
+  },
+  {
+    "lat": 39.133036,
+    "lng": -123.024408,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.436877
+    }
+  },
+  {
+    "lat": 38.493053,
+    "lng": -123.005471,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.47401
+    }
+  },
+  {
+    "lat": 39.409529,
+    "lng": -122.502317,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 38.812786,
+    "lng": -122.091781,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.249335
+    }
+  },
+  {
+    "lat": 37.432876,
+    "lng": -122.088054,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 36.702215,
+    "lng": -121.108183,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.383006
+    }
+  },
+  {
+    "lat": 38.694309,
+    "lng": -123.858028,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.445619
+    }
+  },
+  {
+    "lat": 36.704975,
+    "lng": -121.39312,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 38.350767,
+    "lng": -121.399394,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.323989
+    }
+  },
+  {
+    "lat": 36.160638,
+    "lng": -122.011158,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.391766
+    }
+  },
+  {
+    "lat": 37.177058,
+    "lng": -121.004702,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 35.892567,
+    "lng": -121.289954,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.313469
+    }
+  },
+  {
+    "lat": 38.065518,
+    "lng": -123.9645,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.48999
+    }
+  },
+  {
+    "lat": 39.121268,
+    "lng": -122.725288,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.481734
+    }
+  },
+  {
+    "lat": 36.122811,
+    "lng": -122.358416,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.623467
+    }
+  },
+  {
+    "lat": 38.787825,
+    "lng": -121.584477,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.420698
+    }
+  },
+  {
+    "lat": 37.341293,
+    "lng": -121.488845,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.328752
+    }
+  },
+  {
+    "lat": 38.045256,
+    "lng": -123.802739,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.508659
+    }
+  },
+  {
+    "lat": 39.369745,
+    "lng": -122.934608,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.645361
+    }
+  },
+  {
+    "lat": 36.108506,
+    "lng": -124.015308,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.636063
+    }
+  },
+  {
+    "lat": 37.258339,
+    "lng": -122.652452,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.289387
+    }
+  },
+  {
+    "lat": 38.868421,
+    "lng": -123.459193,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.37262
+    }
+  },
+  {
+    "lat": 36.124463,
+    "lng": -120.457762,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.490365
+    }
+  },
+  {
+    "lat": 39.630555,
+    "lng": -123.540296,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.812866
+    }
+  },
+  {
+    "lat": 38.287317,
+    "lng": -121.345873,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.867674
+    }
+  },
+  {
+    "lat": 39.712251,
+    "lng": -121.286925,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.746799
+    }
+  },
+  {
+    "lat": 38.708159,
+    "lng": -121.358667,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.89614
+    }
+  },
+  {
+    "lat": 36.050774,
+    "lng": -122.658431,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 38.133747,
+    "lng": -120.464396,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.624812
+    }
+  },
+  {
+    "lat": 37.464132,
+    "lng": -121.340217,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.223674
+    }
+  },
+  {
+    "lat": 38.680041,
+    "lng": -123.932279,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.232752
+    }
+  },
+  {
+    "lat": 36.306265,
+    "lng": -122.585871,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.350578
+    }
+  },
+  {
+    "lat": 39.681993,
+    "lng": -123.214408,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.312777
+    }
+  },
+  {
+    "lat": 37.153198,
+    "lng": -122.948523,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.517132
+    }
+  },
+  {
+    "lat": 37.747043,
+    "lng": -122.381251,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.301419
+    }
+  },
+  {
+    "lat": 36.49016,
+    "lng": -123.579544,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.424015
+    }
+  },
+  {
+    "lat": 37.989152,
+    "lng": -122.720753,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.288879
+    }
+  },
+  {
+    "lat": 39.103166,
+    "lng": -121.883319,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.533186
+    }
+  },
+  {
+    "lat": 39.667923,
+    "lng": -122.800955,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.443772
+    }
+  },
+  {
+    "lat": 38.362195,
+    "lng": -123.692801,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 37.017945,
+    "lng": -123.172704,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.389902
+    }
+  },
+  {
+    "lat": 36.219233,
+    "lng": -121.549644,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.41777
+    }
+  },
+  {
+    "lat": 39.273987,
+    "lng": -123.168601,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.624812
+    }
+  },
+  {
+    "lat": 36.679105,
+    "lng": -123.400132,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.473953
+    }
+  },
+  {
+    "lat": 38.541989,
+    "lng": -121.567565,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.746968
+    }
+  },
+  {
+    "lat": 37.410267,
+    "lng": -124.259887,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.35385
+    }
+  },
+  {
+    "lat": 37.387408,
+    "lng": -122.027203,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.534349
+    }
+  },
+  {
+    "lat": 36.229409,
+    "lng": -124.165637,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.330211
+    }
+  },
+  {
+    "lat": 37.441544,
+    "lng": -121.82103,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.574838
+    }
+  },
+  {
+    "lat": 36.275401,
+    "lng": -121.171233,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.628459
+    }
+  },
+  {
+    "lat": 38.002124,
+    "lng": -121.759269,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 38.411983,
+    "lng": -123.389023,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.334294
+    }
+  },
+  {
+    "lat": 38.46566,
+    "lng": -122.619097,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.340065
+    }
+  },
+  {
+    "lat": 39.457457,
+    "lng": -122.091822,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.567766
+    }
+  },
+  {
+    "lat": 39.516201,
+    "lng": -120.479631,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.34729
+    }
+  },
+  {
+    "lat": 38.846758,
+    "lng": -121.994859,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.383006
+    }
+  },
+  {
+    "lat": 37.856122,
+    "lng": -121.206679,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.436799
+    }
+  },
+  {
+    "lat": 37.793716,
+    "lng": -121.864242,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.295785
+    }
+  },
+  {
+    "lat": 39.515887,
+    "lng": -123.145867,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.443677
+    }
+  },
+  {
+    "lat": 39.036191,
+    "lng": -120.788438,
+    "type": {
+      "mood": "fear",
+      "percentage": 0.401155
+    }
+  },
+  {
+    "lat": 37.581911,
+    "lng": -124.028544,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.443677
+    }
+  },
+  {
+    "lat": 39.514193,
+    "lng": -121.97784,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.393673
+    }
+  },
+  {
+    "lat": 37.86431,
+    "lng": -123.727986,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.373622
+    }
+  },
+  {
+    "lat": 37.512833,
+    "lng": -121.857334,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.303247
+    }
+  },
+  {
+    "lat": 37.412863,
+    "lng": -123.48299,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.65924
+    }
+  },
+  {
+    "lat": 37.572449,
+    "lng": -123.886517,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.323956
+    }
+  },
+  {
+    "lat": 36.993745,
+    "lng": -124.158388,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.582768
+    }
+  },
+  {
+    "lat": 35.996234,
+    "lng": -122.256343,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.550398
+    }
+  },
+  {
+    "lat": 39.605716,
+    "lng": -120.630693,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 38.760245,
+    "lng": -123.194072,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.308536
+    }
+  },
+  {
+    "lat": 39.121131,
+    "lng": -124.110806,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.613701
+    }
+  },
+  {
+    "lat": 39.417465,
+    "lng": -122.011242,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 35.869073,
+    "lng": -121.342062,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.420989
+    }
+  },
+  {
+    "lat": 36.119102,
+    "lng": -121.362421,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 37.505236,
+    "lng": -121.2533,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.614245
+    }
+  },
+  {
+    "lat": 36.836542,
+    "lng": -121.442067,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.732176
+    }
+  },
+  {
+    "lat": 38.222647,
+    "lng": -123.712106,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 36.398135,
+    "lng": -120.86005,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.446516
+    }
+  },
+  {
+    "lat": 37.606294,
+    "lng": -123.29791,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 37.234701,
+    "lng": -124.388947,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.592995
+    }
+  },
+  {
+    "lat": 37.842653,
+    "lng": -121.24859,
+    "type": {
+      "mood": "fear",
+      "percentage": 0.215537
+    }
+  },
+  {
+    "lat": 38.963726,
+    "lng": -122.491445,
+    "type": {
+      "mood": "fear",
+      "percentage": 0.222095
+    }
+  },
+  {
+    "lat": 37.753783,
+    "lng": -120.869009,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.641092
+    }
+  },
+  {
+    "lat": 39.187424,
+    "lng": -122.498451,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.616245
+    }
+  },
+  {
+    "lat": 37.154698,
+    "lng": -123.880805,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.616245
+    }
+  },
+  {
+    "lat": 39.008973,
+    "lng": -122.440679,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.616245
+    }
+  },
+  {
+    "lat": 37.36604,
+    "lng": -123.851481,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 39.123061,
+    "lng": -121.819255,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.850918
+    }
+  },
+  {
+    "lat": 38.627928,
+    "lng": -123.015296,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.760099
+    }
+  },
+  {
+    "lat": 38.360771,
+    "lng": -122.480411,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.746968
+    }
+  },
+  {
+    "lat": 37.979924,
+    "lng": -120.673501,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.746629
+    }
+  },
+  {
+    "lat": 39.285602,
+    "lng": -123.218798,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.746629
+    }
+  },
+  {
+    "lat": 39.502109,
+    "lng": -123.001974,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.571157
+    }
+  },
+  {
+    "lat": 37.967889,
+    "lng": -121.378914,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 39.234056,
+    "lng": -124.330239,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.502377
+    }
+  },
+  {
+    "lat": 35.999109,
+    "lng": -123.556106,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.595767
+    }
+  },
+  {
+    "lat": 37.300637,
+    "lng": -121.82125,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.792075,
+    "lng": -123.106238,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.734975,
+    "lng": -123.392508,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.044962,
+    "lng": -122.765938,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 39.692161,
+    "lng": -121.158187,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 38.002433,
+    "lng": -122.850461,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.845667,
+    "lng": -124.349123,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 39.707238,
+    "lng": -121.680978,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 38.928808,
+    "lng": -121.485631,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.857166,
+    "lng": -123.822206,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 39.357381,
+    "lng": -121.145446,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.072915,
+    "lng": -123.559959,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.16492,
+    "lng": -121.115777,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.564061,
+    "lng": -121.775289,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.986461,
+    "lng": -120.610446,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 35.855677,
+    "lng": -120.722086,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.404957,
+    "lng": -121.357798,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 39.160667,
+    "lng": -122.870244,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 35.929648,
+    "lng": -123.478399,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 38.14812,
+    "lng": -120.765698,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.312895,
+    "lng": -122.954959,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.236077,
+    "lng": -123.975573,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.162123,
+    "lng": -124.025541,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.591694,
+    "lng": -122.278965,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 35.867066,
+    "lng": -122.28615,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 38.660386,
+    "lng": -124.186084,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.246567,
+    "lng": -121.077275,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.754238,
+    "lng": -122.428116,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.638215,
+    "lng": -120.651075,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.656528,
+    "lng": -122.655901,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.196394,
+    "lng": -123.209728,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.329071,
+    "lng": -123.14443,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 39.489945,
+    "lng": -123.82431,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.112467,
+    "lng": -122.568067,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.977316,
+    "lng": -122.681455,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.217846,
+    "lng": -121.463313,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 35.80374,
+    "lng": -120.686253,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.736168,
+    "lng": -121.622518,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 39.377851,
+    "lng": -122.976349,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 39.584658,
+    "lng": -122.941131,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.144829,
+    "lng": -122.756331,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 38.233144,
+    "lng": -122.146213,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 36.054427,
+    "lng": -122.780764,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 39.087586,
+    "lng": -123.444315,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 39.305032,
+    "lng": -122.93997,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.711847
+    }
+  },
+  {
+    "lat": 37.024509,
+    "lng": -120.770496,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.616245
+    }
+  },
+  {
+    "lat": 38.737254,
+    "lng": -121.265914,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.379983
+    }
+  },
+  {
+    "lat": 37.543406,
+    "lng": -122.295038,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.508533
+    }
+  },
+  {
+    "lat": 36.539135,
+    "lng": -123.934205,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.397271
+    }
+  },
+  {
+    "lat": 39.259959,
+    "lng": -122.346998,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.607214
+    }
+  },
+  {
+    "lat": 37.039727,
+    "lng": -121.974751,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.446744
+    }
+  },
+  {
+    "lat": 35.953948,
+    "lng": -124.052543,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.309524
+    }
+  },
+  {
+    "lat": 37.225295,
+    "lng": -123.830468,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.448987
+    }
+  },
+  {
+    "lat": 37.201708,
+    "lng": -122.082911,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.332007
+    }
+  },
+  {
+    "lat": 36.439836,
+    "lng": -122.051363,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.399829
+    }
+  },
+  {
+    "lat": 36.295437,
+    "lng": -122.171921,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.365134
+    }
+  },
+  {
+    "lat": 37.376972,
+    "lng": -123.684399,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.472486
+    }
+  },
+  {
+    "lat": 37.086519,
+    "lng": -122.036546,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.612558
+    }
+  },
+  {
+    "lat": 36.901999,
+    "lng": -123.531908,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.314583
+    }
+  },
+  {
+    "lat": 37.332477,
+    "lng": -121.745223,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.223168
+    }
+  },
+  {
+    "lat": 39.254907,
+    "lng": -121.13326,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.281798
+    }
+  },
+  {
+    "lat": 37.752123,
+    "lng": -124.111351,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 35.791379,
+    "lng": -120.562958,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 37.210708,
+    "lng": -122.972467,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.574766
+    }
+  },
+  {
+    "lat": 36.456175,
+    "lng": -120.47697,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.334511
+    }
+  },
+  {
+    "lat": 38.779576,
+    "lng": -123.076572,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.515319
+    }
+  },
+  {
+    "lat": 39.653854,
+    "lng": -120.763448,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.367932
+    }
+  },
+  {
+    "lat": 39.327197,
+    "lng": -122.451136,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 36.310749,
+    "lng": -122.476835,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.562263
+    }
+  },
+  {
+    "lat": 38.989693,
+    "lng": -121.649793,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.773415
+    }
+  },
+  {
+    "lat": 37.446789,
+    "lng": -120.948722,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.717047
+    }
+  },
+  {
+    "lat": 38.806938,
+    "lng": -123.960406,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.257907
+    }
+  },
+  {
+    "lat": 37.296865,
+    "lng": -120.969274,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 38.066529,
+    "lng": -122.682867,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.555869
+    }
+  },
+  {
+    "lat": 37.174415,
+    "lng": -120.563991,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.616245
+    }
+  },
+  {
+    "lat": 38.194663,
+    "lng": -121.623833,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.355681
+    }
+  },
+  {
+    "lat": 39.363315,
+    "lng": -124.406471,
+    "type": {
+      "mood": "fear",
+      "percentage": 0.595286
+    }
+  },
+  {
+    "lat": 36.070578,
+    "lng": -123.640803,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.445836
+    }
+  },
+  {
+    "lat": 36.663882,
+    "lng": -121.353304,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.42324
+    }
+  },
+  {
+    "lat": 39.520313,
+    "lng": -121.425678,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.443677
+    }
+  },
+  {
+    "lat": 38.026335,
+    "lng": -121.155432,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.616245
+    }
+  },
+  {
+    "lat": 37.080089,
+    "lng": -121.671273,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 39.466511,
+    "lng": -121.793939,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.443677
+    }
+  },
+  {
+    "lat": 37.588341,
+    "lng": -122.771866,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.642448
+    }
+  },
+  {
+    "lat": 37.45755,
+    "lng": -120.954393,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.761613
+    }
+  },
+  {
+    "lat": 36.308636,
+    "lng": -120.445335,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.405161
+    }
+  },
+  {
+    "lat": 37.423847,
+    "lng": -122.337372,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.354756
+    }
+  },
+  {
+    "lat": 38.449314,
+    "lng": -123.438887,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.375511
+    }
+  },
+  {
+    "lat": 39.63136,
+    "lng": -124.223598,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.556731
+    }
+  },
+  {
+    "lat": 37.294921,
+    "lng": -124.385001,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.516194
+    }
+  },
+  {
+    "lat": 37.108268,
+    "lng": -121.400081,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.235028
+    }
+  },
+  {
+    "lat": 35.879559,
+    "lng": -121.305867,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.560722
+    }
+  },
+  {
+    "lat": 37.620154,
+    "lng": -123.710991,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.330982
+    }
+  },
+  {
+    "lat": 37.702222,
+    "lng": -123.425714,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.357497
+    }
+  },
+  {
+    "lat": 38.326833,
+    "lng": -123.77997,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.753632
+    }
+  },
+  {
+    "lat": 37.829637,
+    "lng": -120.4962,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.265054
+    }
+  },
+  {
+    "lat": 38.638077,
+    "lng": -123.407793,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.323704
+    }
+  },
+  {
+    "lat": 38.283022,
+    "lng": -121.2964,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.646141
+    }
+  },
+  {
+    "lat": 38.603256,
+    "lng": -121.529324,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.387336
+    }
+  },
+  {
+    "lat": 39.3414,
+    "lng": -122.320872,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.276977
+    }
+  },
+  {
+    "lat": 36.660882,
+    "lng": -122.088555,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.708375
+    }
+  },
+  {
+    "lat": 37.251053,
+    "lng": -120.731685,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.35671
+    }
+  },
+  {
+    "lat": 38.241377,
+    "lng": -124.264229,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.324739
+    }
+  },
+  {
+    "lat": 36.205344,
+    "lng": -123.264335,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.461834
+    }
+  },
+  {
+    "lat": 36.766918,
+    "lng": -124.09003,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.581395
+    }
+  },
+  {
+    "lat": 38.644998,
+    "lng": -123.937067,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.382706
+    }
+  },
+  {
+    "lat": 38.024566,
+    "lng": -123.82321,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.30452
+    }
+  },
+  {
+    "lat": 37.486643,
+    "lng": -124.240189,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.408104
+    }
+  },
+  {
+    "lat": 39.464296,
+    "lng": -121.327881,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.478932
+    }
+  },
+  {
+    "lat": 36.244021,
+    "lng": -123.211291,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.526047
+    }
+  },
+  {
+    "lat": 38.63218,
+    "lng": -122.409157,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.294332
+    }
+  },
+  {
+    "lat": 37.712687,
+    "lng": -123.406244,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.4985
+    }
+  },
+  {
+    "lat": 38.005641,
+    "lng": -123.937633,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.296553
+    }
+  },
+  {
+    "lat": 39.288971,
+    "lng": -123.928617,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605087
+    }
+  },
+  {
+    "lat": 38.952456,
+    "lng": -123.168166,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.502256
+    }
+  },
+  {
+    "lat": 39.478031,
+    "lng": -123.092092,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.366738
+    }
+  },
+  {
+    "lat": 39.405208,
+    "lng": -121.024603,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.466076
+    }
+  },
+  {
+    "lat": 36.431604,
+    "lng": -124.228319,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.432899
+    }
+  },
+  {
+    "lat": 38.877727,
+    "lng": -121.770485,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.282824
+    }
+  },
+  {
+    "lat": 35.972036,
+    "lng": -123.460869,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.675054
+    }
+  },
+  {
+    "lat": 39.435281,
+    "lng": -124.182267,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.611196
+    }
+  },
+  {
+    "lat": 37.903216,
+    "lng": -122.291476,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.52259
+    }
+  },
+  {
+    "lat": 37.442423,
+    "lng": -124.257345,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.35003
+    }
+  },
+  {
+    "lat": 36.265581,
+    "lng": -121.464227,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.35003
+    }
+  },
+  {
+    "lat": 35.920089,
+    "lng": -122.319552,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.481062
+    }
+  },
+  {
+    "lat": 38.129189,
+    "lng": -123.162657,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.585583
+    }
+  },
+  {
+    "lat": 37.662584,
+    "lng": -123.868385,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.605991
+    }
+  },
+  {
+    "lat": 36.274948,
+    "lng": -121.181266,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.372695
+    }
+  },
+  {
+    "lat": 36.207431,
+    "lng": -123.216298,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.715345
+    }
+  },
+  {
+    "lat": 37.041599,
+    "lng": -121.729432,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.275539
+    }
+  },
+  {
+    "lat": 37.448664,
+    "lng": -123.320779,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.324544
+    }
+  },
+  {
+    "lat": 35.867521,
+    "lng": -123.252741,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.372695
+    }
+  },
+  {
+    "lat": 36.219671,
+    "lng": -122.186288,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.275539
+    }
+  },
+  {
+    "lat": 36.778952,
+    "lng": -123.645958,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.724908
+    }
+  },
+  {
+    "lat": 36.723685,
+    "lng": -122.769056,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.389712
+    }
+  },
+  {
+    "lat": 39.208606,
+    "lng": -122.860265,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.35003
+    }
+  },
+  {
+    "lat": 39.748528,
+    "lng": -124.35016,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.372695
+    }
+  },
+  {
+    "lat": 37.720806,
+    "lng": -121.735531,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.302069
+    }
+  },
+  {
+    "lat": 36.756878,
+    "lng": -121.755077,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 39.604514,
+    "lng": -120.570811,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.247463
+    }
+  },
+  {
+    "lat": 36.908585,
+    "lng": -122.516004,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.380273
+    }
+  },
+  {
+    "lat": 38.808795,
+    "lng": -122.122935,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.249548
+    }
+  },
+  {
+    "lat": 37.429668,
+    "lng": -122.788429,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.338619
+    }
+  },
+  {
+    "lat": 35.952303,
+    "lng": -123.346551,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.640394
+    }
+  },
+  {
+    "lat": 38.066447,
+    "lng": -120.44038,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.405627
+    }
+  },
+  {
+    "lat": 37.827365,
+    "lng": -121.50777,
+    "type": {
+      "mood": "fear",
+      "percentage": 0.370919
+    }
+  },
+  {
+    "lat": 37.831793,
+    "lng": -122.004636,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 38.020314,
+    "lng": -122.515595,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.275539
+    }
+  },
+  {
+    "lat": 36.337167,
+    "lng": -124.033331,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 37.474252,
+    "lng": -123.644832,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.33207
+    }
+  },
+  {
+    "lat": 35.919132,
+    "lng": -124.412507,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.417495
+    }
+  },
+  {
+    "lat": 38.069167,
+    "lng": -124.424702,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.502006
+    }
+  },
+  {
+    "lat": 35.930172,
+    "lng": -121.957346,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.418197
+    }
+  },
+  {
+    "lat": 37.841048,
+    "lng": -121.064815,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.625912
+    }
+  },
+  {
+    "lat": 35.887831,
+    "lng": -123.210693,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 39.482005,
+    "lng": -123.944456,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 37.518041,
+    "lng": -122.970709,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.46294
+    }
+  },
+  {
+    "lat": 39.721546,
+    "lng": -121.131195,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.456677
+    }
+  },
+  {
+    "lat": 39.723977,
+    "lng": -123.622962,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.230663
+    }
+  },
+  {
+    "lat": 37.392438,
+    "lng": -121.078148,
+    "type": {
+      "mood": "fear",
+      "percentage": 0.752915
+    }
+  },
+  {
+    "lat": 39.577227,
+    "lng": -121.445793,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.304403
+    }
+  },
+  {
+    "lat": 36.709512,
+    "lng": -120.51146,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.372695
+    }
+  },
+  {
+    "lat": 37.609089,
+    "lng": -120.709748,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.432899
+    }
+  },
+  {
+    "lat": 38.456497,
+    "lng": -123.934384,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.535243
+    }
+  },
+  {
+    "lat": 37.278223,
+    "lng": -122.871584,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.228822
+    }
+  },
+  {
+    "lat": 37.129743,
+    "lng": -123.780014,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 37.056729,
+    "lng": -122.548096,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 38.283394,
+    "lng": -121.667954,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 36.083098,
+    "lng": -122.983844,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 37.093932,
+    "lng": -121.68696,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.35671
+    }
+  },
+  {
+    "lat": 36.424787,
+    "lng": -123.402898,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.570314
+    }
+  },
+  {
+    "lat": 36.547182,
+    "lng": -122.821237,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.331925
+    }
+  },
+  {
+    "lat": 36.220612,
+    "lng": -120.446334,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.589526
+    }
+  },
+  {
+    "lat": 37.02707,
+    "lng": -123.883999,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 36.351969,
+    "lng": -123.181568,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.531651
+    }
+  },
+  {
+    "lat": 36.581488,
+    "lng": -123.546328,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.314731
+    }
+  },
+  {
+    "lat": 39.229012,
+    "lng": -123.913915,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.223907
+    }
+  },
+  {
+    "lat": 38.516591,
+    "lng": -122.595452,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.633031
+    }
+  },
+  {
+    "lat": 39.516767,
+    "lng": -121.931217,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 38.754562,
+    "lng": -122.773774,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 39.617677,
+    "lng": -122.501759,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 39.03694,
+    "lng": -120.79704,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.636008
+    }
+  },
+  {
+    "lat": 36.22402,
+    "lng": -123.848744,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.724908
+    }
+  },
+  {
+    "lat": 39.673665,
+    "lng": -123.099161,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 38.054146,
+    "lng": -124.237174,
+    "type": {
+      "mood": "fear",
+      "percentage": 0.633165
+    }
+  },
+  {
+    "lat": 37.274027,
+    "lng": -122.125878,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.574838
+    }
+  },
+  {
+    "lat": 39.554039,
+    "lng": -123.507591,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.404388
+    }
+  },
+  {
+    "lat": 36.998253,
+    "lng": -120.446022,
+    "type": {
+      "mood": "fear",
+      "percentage": 0.636998
+    }
+  },
+  {
+    "lat": 38.955216,
+    "lng": -122.70592,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.628938
+    }
+  },
+  {
+    "lat": 36.489956,
+    "lng": -122.15661,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.59974
+    }
+  },
+  {
+    "lat": 37.922752,
+    "lng": -124.112249,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 36.140888,
+    "lng": -124.112612,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.242315
+    }
+  },
+  {
+    "lat": 37.944195,
+    "lng": -121.882156,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.35003
+    }
+  },
+  {
+    "lat": 36.24256,
+    "lng": -120.690174,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 35.900826,
+    "lng": -121.844919,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 36.844061,
+    "lng": -122.700451,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.686973
+    }
+  },
+  {
+    "lat": 36.914918,
+    "lng": -121.711272,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.297737
+    }
+  },
+  {
+    "lat": 35.95672,
+    "lng": -120.451217,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.709625
+    }
+  },
+  {
+    "lat": 36.76559,
+    "lng": -123.30464,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.432899
+    }
+  },
+  {
+    "lat": 37.190771,
+    "lng": -121.181682,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.568525
+    }
+  },
+  {
+    "lat": 36.666259,
+    "lng": -122.472687,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.473211
+    }
+  },
+  {
+    "lat": 36.180872,
+    "lng": -120.683665,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.763818
+    }
+  },
+  {
+    "lat": 37.189525,
+    "lng": -121.641862,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.401663
+    }
+  },
+  {
+    "lat": 38.868352,
+    "lng": -121.486983,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.478188
+    }
+  },
+  {
+    "lat": 38.243121,
+    "lng": -124.15866,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 36.690268,
+    "lng": -121.981645,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 38.776182,
+    "lng": -121.943785,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.59974
+    }
+  },
+  {
+    "lat": 36.043903,
+    "lng": -120.933769,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 36.501686,
+    "lng": -121.263545,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.724112
+    }
+  },
+  {
+    "lat": 37.202148,
+    "lng": -122.141074,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.455936
+    }
+  },
+  {
+    "lat": 37.937097,
+    "lng": -122.23351,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.347012
+    }
+  },
+  {
+    "lat": 38.319142,
+    "lng": -124.378377,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.362905
+    }
+  },
+  {
+    "lat": 39.452084,
+    "lng": -120.937892,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.407932
+    }
+  },
+  {
+    "lat": 39.155249,
+    "lng": -122.865219,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.565925
+    }
+  },
+  {
+    "lat": 39.583815,
+    "lng": -122.243865,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.320716
+    }
+  },
+  {
+    "lat": 35.794601,
+    "lng": -120.841006,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.819305
+    }
+  },
+  {
+    "lat": 39.346534,
+    "lng": -123.214427,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.432899
+    }
+  },
+  {
+    "lat": 39.348885,
+    "lng": -120.729177,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 38.911257,
+    "lng": -121.802185,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.35003
+    }
+  },
+  {
+    "lat": 36.259574,
+    "lng": -123.314747,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 37.707005,
+    "lng": -122.381496,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.447664
+    }
+  },
+  {
+    "lat": 35.955894,
+    "lng": -121.923459,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.334609
+    }
+  },
+  {
+    "lat": 39.150502,
+    "lng": -121.828729,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.480933
+    }
+  },
+  {
+    "lat": 39.762667,
+    "lng": -123.045294,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 37.7286,
+    "lng": -124.2908,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.430216
+    }
+  },
+  {
+    "lat": 39.530672,
+    "lng": -120.530004,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.742645
+    }
+  },
+  {
+    "lat": 37.763463,
+    "lng": -123.982935,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.417594
+    }
+  },
+  {
+    "lat": 36.077634,
+    "lng": -120.817341,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.382486
+    }
+  },
+  {
+    "lat": 39.760197,
+    "lng": -123.70191,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.317017
+    }
+  },
+  {
+    "lat": 36.07137,
+    "lng": -121.144679,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.35003
+    }
+  },
+  {
+    "lat": 39.290333,
+    "lng": -121.286186,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.35671
+    }
+  },
+  {
+    "lat": 36.28358,
+    "lng": -123.458937,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 37.311866,
+    "lng": -123.48133,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 37.852775,
+    "lng": -123.515628,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.289861
+    }
+  },
+  {
+    "lat": 38.052823,
+    "lng": -120.490587,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.413774
+    }
+  },
+  {
+    "lat": 38.969813,
+    "lng": -124.393285,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.304243
+    }
+  },
+  {
+    "lat": 37.835333,
+    "lng": -122.500851,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.432899
+    }
+  },
+  {
+    "lat": 36.567951,
+    "lng": -122.126878,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.485292
+    }
+  },
+  {
+    "lat": 35.978765,
+    "lng": -122.021334,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 36.41911,
+    "lng": -123.029961,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.728104
+    }
+  },
+  {
+    "lat": 39.694608,
+    "lng": -121.298273,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 38.639822,
+    "lng": -123.128245,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.728104
+    }
+  },
+  {
+    "lat": 36.729686,
+    "lng": -121.79213,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.386045
+    }
+  },
+  {
+    "lat": 38.278826,
+    "lng": -123.3221,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.32666
+    }
+  },
+  {
+    "lat": 39.241605,
+    "lng": -123.945875,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.249826
+    }
+  },
+  {
+    "lat": 38.325366,
+    "lng": -120.782082,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.389173
+    }
+  },
+  {
+    "lat": 38.664677,
+    "lng": -120.91312,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 37.985358,
+    "lng": -122.054393,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.442071
+    }
+  },
+  {
+    "lat": 36.140464,
+    "lng": -121.458403,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.35003
+    }
+  },
+  {
+    "lat": 38.437079,
+    "lng": -121.13198,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 38.753226,
+    "lng": -122.633625,
+    "type": {
+      "mood": "anger",
+      "percentage": 0.590321
+    }
+  },
+  {
+    "lat": 38.483921,
+    "lng": -123.945959,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.669241
+    }
+  },
+  {
+    "lat": 36.266995,
+    "lng": -122.323584,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.514968
+    }
+  },
+  {
+    "lat": 39.709199,
+    "lng": -123.047239,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.285958
+    }
+  },
+  {
+    "lat": 38.899698,
+    "lng": -122.759061,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.639307
+    }
+  },
+  {
+    "lat": 37.671591,
+    "lng": -123.774695,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.295257
+    }
+  },
+  {
+    "lat": 37.267037,
+    "lng": -122.846447,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.463718
+    }
+  },
+  {
+    "lat": 38.945611,
+    "lng": -121.05836,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.424388
+    }
+  },
+  {
+    "lat": 39.647538,
+    "lng": -124.128547,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 38.750489,
+    "lng": -121.605943,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 36.582203,
+    "lng": -122.228365,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.322533
+    }
+  },
+  {
+    "lat": 37.446199,
+    "lng": -124.239479,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.731194
+    }
+  },
+  {
+    "lat": 38.625609,
+    "lng": -122.384644,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 39.637789,
+    "lng": -124.223666,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 37.798337,
+    "lng": -124.208644,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.393196
+    }
+  },
+  {
+    "lat": 36.582302,
+    "lng": -120.693066,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.417495
+    }
+  },
+  {
+    "lat": 36.957498,
+    "lng": -121.442926,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.403996
+    }
+  },
+  {
+    "lat": 36.288044,
+    "lng": -124.262841,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.35003
+    }
+  },
+  {
+    "lat": 39.689118,
+    "lng": -121.348827,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.35003
+    }
+  },
+  {
+    "lat": 37.777093,
+    "lng": -122.351287,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 38.62364,
+    "lng": -121.763077,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 36.906156,
+    "lng": -120.481083,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.275539
+    }
+  },
+  {
+    "lat": 38.752069,
+    "lng": -124.048564,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.249251
+    }
+  },
+  {
+    "lat": 36.169461,
+    "lng": -123.170922,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.377991
+    }
+  },
+  {
+    "lat": 36.344095,
+    "lng": -122.546141,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.423673
+    }
+  },
+  {
+    "lat": 36.188405,
+    "lng": -121.362793,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.639307
+    }
+  },
+  {
+    "lat": 39.090215,
+    "lng": -121.870279,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.453028
+    }
+  },
+  {
+    "lat": 35.819583,
+    "lng": -120.7969,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.416009
+    }
+  },
+  {
+    "lat": 37.470668,
+    "lng": -120.874063,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.35003
+    }
+  },
+  {
+    "lat": 38.968163,
+    "lng": -121.096959,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.639307
+    }
+  },
+  {
+    "lat": 38.368443,
+    "lng": -123.596462,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.450912
+    }
+  },
+  {
+    "lat": 38.699345,
+    "lng": -121.509609,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.386916
+    }
+  },
+  {
+    "lat": 38.316233,
+    "lng": -124.419876,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.379248
+    }
+  },
+  {
+    "lat": 36.379419,
+    "lng": -124.33911,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.35003
+    }
+  },
+  {
+    "lat": 39.115204,
+    "lng": -123.067132,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.344306
+    }
+  },
+  {
+    "lat": 38.631083,
+    "lng": -122.52067,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.337597
+    }
+  },
+  {
+    "lat": 39.025793,
+    "lng": -121.226495,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.426089
+    }
+  },
+  {
+    "lat": 37.485771,
+    "lng": -121.124226,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.564498
+    }
+  },
+  {
+    "lat": 39.079259,
+    "lng": -120.965032,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.40295
+    }
+  },
+  {
+    "lat": 36.645553,
+    "lng": -123.008545,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.444212
+    }
+  },
+  {
+    "lat": 39.201977,
+    "lng": -121.667417,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.319751
+    }
+  },
+  {
+    "lat": 38.630375,
+    "lng": -122.859995,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 38.947811,
+    "lng": -123.559107,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.437007
+    }
+  },
+  {
+    "lat": 36.755344,
+    "lng": -124.319419,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.454197
+    }
+  },
+  {
+    "lat": 37.464167,
+    "lng": -123.505055,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379135
+    }
+  },
+  {
+    "lat": 36.960437,
+    "lng": -122.367683,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.372695
+    }
+  },
+  {
+    "lat": 37.506874,
+    "lng": -123.603196,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.379
+    }
+  },
+  {
+    "lat": 38.846378,
+    "lng": -123.515758,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.431494
+    }
+  },
+  {
+    "lat": 38.472606,
+    "lng": -120.785452,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.779202
+    }
+  },
+  {
+    "lat": 36.79328,
+    "lng": -121.467076,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.453028
+    }
+  },
+  {
+    "lat": 36.808955,
+    "lng": -121.020132,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.330725
+    }
+  },
+  {
+    "lat": 36.759254,
+    "lng": -121.943684,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.364527
+    }
+  },
+  {
+    "lat": 38.708655,
+    "lng": -122.546287,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.364527
+    }
+  },
+  {
+    "lat": 36.861398,
+    "lng": -123.911014,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.435165
+    }
+  },
+  {
+    "lat": 38.701061,
+    "lng": -121.19779,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.525194
+    }
+  },
+  {
+    "lat": 36.669242,
+    "lng": -120.815383,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.447664
+    }
+  },
+  {
+    "lat": 38.333953,
+    "lng": -121.169056,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.405962
+    }
+  },
+  {
+    "lat": 36.68512,
+    "lng": -121.037573,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.526879
+    }
+  },
+  {
+    "lat": 38.643606,
+    "lng": -123.942418,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.44404
+    }
+  },
+  {
+    "lat": 36.072938,
+    "lng": -122.319414,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.420596
+    }
+  },
+  {
+    "lat": 37.409043,
+    "lng": -121.004109,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.669612
+    }
+  },
+  {
+    "lat": 37.4433,
+    "lng": -121.213316,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.388704
+    }
+  },
+  {
+    "lat": 36.446057,
+    "lng": -123.253949,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.59974
+    }
+  },
+  {
+    "lat": 37.097412,
+    "lng": -122.474496,
+    "type": {
+      "mood": "disgust",
+      "percentage": 0.453028
+    }
+  },
+  {
+    "lat": 38.163948,
+    "lng": -122.042242,
+    "type": {
+      "mood": "joy",
+      "percentage": 0.488195
+    }
+  },
+  {
+    "lat": 37.441206,
+    "lng": -124.163533,
+    "type": {
+      "mood": "sadness",
+      "percentage": 0.372695
+    }
+  }
+]
