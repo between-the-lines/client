@@ -21,7 +21,7 @@ function initMap() {
 
   var iconBase = 'img/';
   var icons = {
-    angry: {
+    anger: {
       url: iconBase + '1.png',
       scaledSize : new google.maps.Size(30,30)
     },
@@ -67,7 +67,7 @@ function initMap() {
           animation: google.maps.Animation.DROP,
           percentage: feature.type.percentage,
           mood: feature.type.mood
-        }); 
+        });
         mark.addListener('mouseover', function() {
           feature.info.open(map, mark);
         });
@@ -104,7 +104,7 @@ function initMap() {
       var markerCluster = new MarkerClusterer(map, markers, mcOptions);
 
       // google.maps.event.addListener(markerCluster, 'clusterclick', function(cluster) {
-  
+
       //       var content = '';
       //       // Convert the coordinates to an MVCObject
       //       var info = new google.maps.MVCObject;
@@ -115,16 +115,16 @@ function initMap() {
       //       console.log(marks_in_cluster);
 
       //       for (var z = 0; z < marks_in_cluster.length; z++) {
-      //           content = makeClusterInfo(marks_in_cluster,z); 
+      //           content = makeClusterInfo(marks_in_cluster,z);
       //       }
 
       //       infowindow.close(); // closes previous open ifowindows
-      //       infowindow.setContent(content); 
+      //       infowindow.setContent(content);
       //       infowindow.open(map, info);
       //       google.maps.event.addListener(map, 'zoom_changed', function() {
       //           infowindow.close()
       //       });
-  
+
       //   });
 
       markerCluster.setCalculator(function(markers, numStyles) {
@@ -133,7 +133,7 @@ function initMap() {
             total = count,
             numMoods = 0,
             moods = new MoodGen();
-        
+
         while (total !== 0) {
           total = parseInt(total / 5, 10);
           index++;
@@ -202,4 +202,3 @@ function initMap() {
 
 
 }
-
