@@ -22,7 +22,7 @@ We believe our product can be used for a variety of reasons. Instead of scrollin
 * Currently, the Watson API only allows for English and French language analysis.
 
 ## Our Team
-![Photo of our team](./img/cbf2017team.jpg)
+![Photo of our team](/img/cbf2017team.jpg)
 ###### in order from left to right:
 * Manoj Mohan
 * Rock Pereira
