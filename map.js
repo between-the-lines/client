@@ -2,7 +2,7 @@ var map, locations;
 
 // State Constructor
 function MoodGen() {
-  this.angry = 0;
+  this.anger = 0;
   this.disgust = 0;
   this.fear = 0;
   this.joy = 0;
@@ -21,7 +21,7 @@ function initMap() {
 
   var iconBase = 'img/';
   var icons = {
-    angry: {
+    anger: {
       url: iconBase + '1.png',
       scaledSize : new google.maps.Size(30,30)
     },
@@ -73,8 +73,8 @@ function initMap() {
         });
         mark.addListener('mouseout', () => {
           feature.info.close(map, mark);
-        })
-        return mark;;
+        });
+        return mark;
       });
 
       var imagePath = 'img/'
@@ -160,7 +160,7 @@ function initMap() {
         // console.log(largest);
 
         switch(largest) {
-          case 'angry':
+          case 'anger':
             index = 1;
             break;
           case 'disgust':
