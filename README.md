@@ -1,5 +1,6 @@
 # Type or Text
 **3rd place winner at Cognitive Builder Faire 2017**
+![Flyer](/SF_FAire.png)
 
 ## Purpose
 *Type or Text* is a web application which extracts data from social media, such as Twitter to see how interesting is a topic is in a given area, *in realtime*, and render the results in such a way that anyone can understand at a glance.  Our first iteration resulted in a Google Maps integration with emoji representations of general feelings based on realtime Twitter streams.
@@ -37,3 +38,4 @@ We believe our product can be used for a variety of reasons. Instead of scrollin
 2. then `http-server -p 4000`
 3. Command + double-click the first url displayed in the command line to open the view.
 4. CTRL-C will stop the server
+
